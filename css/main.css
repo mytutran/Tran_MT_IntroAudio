@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+div {
+  display: inline-block;
+  margin: 10px;
+}
+
+button {
+  /*display: block;*/
+  font-size: 18px;
+  padding: 10px;
+  cursor: pointer;
+  margin: 0 4px;
+}
+
+.controllers {
+  display: block;
+  margin-top: 8px;
+  text-align: center;
+}
